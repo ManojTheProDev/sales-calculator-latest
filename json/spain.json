@@ -1,0 +1,189 @@
+{
+	"country": "Spain",
+	"category" : [
+		{
+			"name": "Baby",
+			"icon": "icon-baby",
+			"valueA": 67,
+			"valueB": 67,
+			"valueC": 67,
+			"valueD": 67
+		},
+		{
+			"name": "Beauty",
+			"icon": "icon-beauty",
+			"valueA": 86,
+			"valueB": 86,
+			"valueC": 86,
+			"valueD": 86
+		},
+		{
+			"name": "Books",
+			"icon": "icon-books",
+			"valueA": 60,
+			"valueB": 60,
+			"valueC": 60,
+			"valueD": 60
+		},
+		{
+			"name": "Clothing and Accesories",
+			"icon": "icon-clothing",
+			"valueA": 55,
+			"valueB": 55,
+			"valueC": 55,
+			"valueD": 55
+		},
+		{
+			"name": "Computers and Accesories",
+			"icon": "icon-computer",
+			"valueA": 91,
+			"valueB": 91,
+			"valueC": 91,
+			"valueD": 91
+		},
+		{
+			"name": "Electronics",
+			"icon": "icon-electronics",
+			"valueA": 87,
+			"valueB": 87,
+			"valueC": 87,
+			"valueD": 87
+		},
+		{
+			"name": "Grocery and Gourmet Food",
+			"icon": "icon-grocery",
+			"valueA": 61,
+			"valueB": 61,
+			"valueC": 61,
+			"valueD": 61
+		},
+		{
+			"name": "Health and Personal Care",
+			"icon": "icon-healthPersonalCare",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "Home and Garden",
+			"icon": "icon-homeGarden",
+			"valueA": 51,
+			"valueB": 51,
+			"valueC": 51,
+			"valueD": 51
+		},
+		{
+			"name": "Industrial and Scienntific",
+			"icon": "icon-industrial",
+			"valueA": 37,
+			"valueB": 37,
+			"valueC": 37,
+			"valueD": 37
+		},
+		{
+			"name": "Musical Instruments",
+			"icon": "icon-musicalInstruments",
+			"valueA": 30,
+			"valueB": 30,
+			"valueC": 30,
+			"valueD": 30
+		},
+		{
+			"name": "Office Products",
+			"icon": "icon-officeProducts",
+			"valueA": 22,
+			"valueB": 22,
+			"valueC": 22,
+			"valueD": 22
+		},
+		{
+			"name": "Software",
+			"icon": "icon-software",
+			"valueA": 99,
+			"valueB": 99,
+			"valueC": 99,
+			"valueD": 99
+		},
+		{
+			"name": "Sports and Outdoors",
+			"icon": "icon-sport",
+			"valueA": 90,
+			"valueB": 90,
+			"valueC": 90,
+			"valueD": 90
+		},
+		{
+			"name": "Toys and Games",
+			"icon": "icon-toy",
+			"valueA": 86,
+			"valueB": 86,
+			"valueC": 86,
+			"valueD": 86
+		},
+		{
+			"name": "Video Games",
+			"icon": "icon-videoGames",
+			"valueA": 69,
+			"valueB": 69,
+			"valueC": 69,
+			"valueD": 69
+		},
+		{
+			"name": "Watches",
+			"icon": "icon-watches",
+			"valueA": 50,
+			"valueB": 50,
+			"valueC": 50,
+			"valueD": 50
+		},
+		{
+			"name": "Jewelry",
+			"icon": "icon-jewelry",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "Shoes and Handbags",
+			"icon": "icon-shoesHandbags",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "Lighting",
+			"icon": "icon-lighting",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "Car and Motorbike",
+			"icon": "icon-vehicle",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "DIY and Tools",
+			"icon": "icon-diyTools",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "Television",
+			"icon": "icon-televsion",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		}
+	]
+}

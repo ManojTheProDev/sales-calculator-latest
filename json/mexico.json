@@ -1,0 +1,109 @@
+{
+	"country": "Mexico",
+	"category" : [
+		{
+			"name": "Baby",
+			"icon": "icon-baby",
+			"valueA": 67,
+			"valueB": 67,
+			"valueC": 67,
+			"valueD": 67
+		},
+		{
+			"name": "Books",
+			"icon": "icon-books",
+			"valueA": 60,
+			"valueB": 60,
+			"valueC": 60,
+			"valueD": 60
+		},
+		{
+			"name": "Health and Personal Care",
+			"icon": "icon-healthPersonalCare",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "Home and Kitchen",
+			"icon": "icon-homeKitchen",
+			"valueA": 63,
+			"valueB": 63,
+			"valueC": 63,
+			"valueD": 63
+		},
+		{
+			"name": "Home Improvements",
+			"icon": "icon-homeImprovements",
+			"valueA": 29,
+			"valueB": 29,
+			"valueC": 29,
+			"valueD": 29
+		},
+		{
+			"name": "Industrial and Scienntific",
+			"icon": "icon-industrial",
+			"valueA": 37,
+			"valueB": 37,
+			"valueC": 37,
+			"valueD": 37
+		},
+		{
+			"name": "Music",
+			"icon": "icon-music",
+			"valueA": 52,
+			"valueB": 52,
+			"valueC": 52,
+			"valueD": 52
+		},
+		{
+			"name": "Office Products",
+			"icon": "icon-officeProducts",
+			"valueA": 22,
+			"valueB": 22,
+			"valueC": 22,
+			"valueD": 22
+		},
+		{
+			"name": "Pet Supplies",
+			"icon": "icon-pet",
+			"valueA": 77,
+			"valueB": 77,
+			"valueC": 77,
+			"valueD": 77
+		},
+		{
+			"name": "Software",
+			"icon": "icon-software",
+			"valueA": 99,
+			"valueB": 99,
+			"valueC": 99,
+			"valueD": 99
+		},
+		{
+			"name": "Toys and Games",
+			"icon": "icon-toy",
+			"valueA": 86,
+			"valueB": 86,
+			"valueC": 86,
+			"valueD": 86
+		},
+		{
+			"name": "Video Games",
+			"icon": "icon-videoGames",
+			"valueA": 69,
+			"valueB": 69,
+			"valueC": 69,
+			"valueD": 69
+		},
+		{
+			"name": "Large Appliances",
+			"icon": "icon-largeAppliances",
+			"valueA": 29,
+			"valueB": 29,
+			"valueC": 29,
+			"valueD": 29
+		}
+	]
+}

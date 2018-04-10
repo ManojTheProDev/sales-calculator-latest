@@ -1,0 +1,253 @@
+{
+	"country": "USA",
+	"category" : [
+		{
+			"name": "Appliances",
+			"icon": "icon-appliances",
+			"valueA": 20,
+			"valueB": 20,
+			"valueC": 20,
+			"valueD": 20
+		},
+		{
+			"name": "Arts, Crafts and Sewing",
+			"icon": "icon-arts",
+			"valueA": 25,
+			"valueB": 25,
+			"valueC": 25,
+			"valueD": 25
+		},
+		{
+			"name": "Automotive",
+			"icon": "icon-automotive",
+			"valueA": 33,
+			"valueB": 33,
+			"valueC": 33,
+			"valueD": 33
+		},
+		{
+			"name": "Baby",
+			"icon": "icon-baby",
+			"valueA": 67,
+			"valueB": 67,
+			"valueC": 67,
+			"valueD": 67
+		},
+		{
+			"name": "Beauty",
+			"icon": "icon-beauty",
+			"valueA": 86,
+			"valueB": 86,
+			"valueC": 86,
+			"valueD": 86
+		},
+		{
+			"name": "Beauty and Personal Care",
+			"icon": "icon-beautyPersonalCare",
+			"valueA": 39,
+			"valueB": 39,
+			"valueC": 39,
+			"valueD": 39
+		},
+		{
+			"name": "Books",
+			"icon": "icon-books",
+			"valueA": 60,
+			"valueB": 60,
+			"valueC": 60,
+			"valueD": 60
+		},
+		{
+			"name": "Camera and Photo",
+			"icon": "icon-camera",
+			"valueA": 27,
+			"valueB": 27,
+			"valueC": 27,
+			"valueD": 27
+		},
+		{
+			"name": "Cell Phones and Accesories",
+			"icon": "icon-phone",
+			"valueA": 45,
+			"valueB": 45,
+			"valueC": 45,
+			"valueD": 45
+		},
+		{
+			"name": "Clothing, Shoes and Jewelry",
+			"icon": "icon-clothing",
+			"valueA": 55,
+			"valueB": 55,
+			"valueC": 55,
+			"valueD": 55
+		},
+		{
+			"name": "Computers and Accesories",
+			"icon": "icon-computer",
+			"valueA": 91,
+			"valueB": 91,
+			"valueC": 91,
+			"valueD": 91
+		},
+		{
+			"name": "Electronics",
+			"icon": "icon-electronics",
+			"valueA": 87,
+			"valueB": 87,
+			"valueC": 87,
+			"valueD": 87
+		},
+		{
+			"name": "Grocery and Gourmet Food",
+			"icon": "icon-grocery",
+			"valueA": 61,
+			"valueB": 61,
+			"valueC": 61,
+			"valueD": 61
+		},
+		{
+			"name": "Health and Household",
+			"icon": "icon-healthHousehold",
+			"valueA": 58,
+			"valueB": 58,
+			"valueC": 58,
+			"valueD": 58
+		},
+		{
+			"name": "Health and Personal Care",
+			"icon": "icon-healthPersonalCare",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "Home and Garden",
+			"icon": "icon-homeGarden",
+			"valueA": 51,
+			"valueB": 51,
+			"valueC": 51,
+			"valueD": 51
+		},
+		{
+			"name": "Home and Kitchen",
+			"icon": "icon-homeKitchen",
+			"valueA": 63,
+			"valueB": 63,
+			"valueC": 63,
+			"valueD": 63
+		},
+		{
+			"name": "Home Improvements",
+			"icon": "icon-homeImprovements",
+			"valueA": 29,
+			"valueB": 29,
+			"valueC": 29,
+			"valueD": 29
+		},
+		{
+			"name": "Industrial and Scienntific",
+			"icon": "icon-industrial",
+			"valueA": 37,
+			"valueB": 37,
+			"valueC": 37,
+			"valueD": 37
+		},
+		{
+			"name": "Kindle Store",
+			"icon": "icon-kindle",
+			"valueA": 88,
+			"valueB": 88,
+			"valueC": 88,
+			"valueD": 88
+		},
+		{
+			"name": "Kitchen and Dining",
+			"icon": "icon-kitchenDining",
+			"valueA": 98,
+			"valueB": 98,
+			"valueC": 98,
+			"valueD": 98
+		},
+		{
+			"name": "Music",
+			"icon": "icon-music",
+			"valueA": 52,
+			"valueB": 52,
+			"valueC": 52,
+			"valueD": 52
+		},
+		{
+			"name": "Musical Instruments",
+			"icon": "icon-musicalInstruments",
+			"valueA": 30,
+			"valueB": 30,
+			"valueC": 30,
+			"valueD": 30
+		},
+		{
+			"name": "Office Products",
+			"icon": "icon-officeProducts",
+			"valueA": 22,
+			"valueB": 22,
+			"valueC": 22,
+			"valueD": 22
+		},
+		{
+			"name": "Patio, Lawn and Garden",
+			"icon": "icon-patio",
+			"valueA": 44,
+			"valueB": 44,
+			"valueC": 44,
+			"valueD": 44
+		},
+		{
+			"name": "Pet Supplies",
+			"icon": "icon-pet",
+			"valueA": 77,
+			"valueB": 77,
+			"valueC": 77,
+			"valueD": 77
+		},
+		{
+			"name": "Software",
+			"icon": "icon-software",
+			"valueA": 99,
+			"valueB": 99,
+			"valueC": 99,
+			"valueD": 99
+		},
+		{
+			"name": "Sports and Outdoors",
+			"icon": "icon-sport",
+			"valueA": 90,
+			"valueB": 90,
+			"valueC": 90,
+			"valueD": 90
+		},
+		{
+			"name": "Toys and Games",
+			"icon": "icon-toy",
+			"valueA": 86,
+			"valueB": 86,
+			"valueC": 86,
+			"valueD": 86
+		},
+		{
+			"name": "Video Games",
+			"icon": "icon-videoGames",
+			"valueA": 69,
+			"valueB": 69,
+			"valueC": 69,
+			"valueD": 69
+		},
+		{
+			"name": "Watches",
+			"icon": "icon-watches",
+			"valueA": 50,
+			"valueB": 50,
+			"valueC": 50,
+			"valueD": 50
+		}
+	]
+}

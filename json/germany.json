@@ -1,0 +1,237 @@
+{
+	"country": "Germany",
+	"category" : [
+		{
+			"name": "Automotive",
+			"icon": "icon-automotive",
+			"valueA": 33,
+			"valueB": 33,
+			"valueC": 33,
+			"valueD": 33
+		},
+		{
+			"name": "Baby",
+			"icon": "icon-baby",
+			"valueA": 67,
+			"valueB": 67,
+			"valueC": 67,
+			"valueD": 67
+		},
+		{
+			"name": "Beauty",
+			"icon": "icon-beauty",
+			"valueA": 86,
+			"valueB": 86,
+			"valueC": 86,
+			"valueD": 86
+		},
+		{
+			"name": "Camera and Photo",
+			"icon": "icon-camera",
+			"valueA": 27,
+			"valueB": 27,
+			"valueC": 27,
+			"valueD": 27
+		}
+		{
+			"name": "Clothing, Shoes and Jewelry",
+			"icon": "icon-clothing",
+			"valueA": 55,
+			"valueB": 55,
+			"valueC": 55,
+			"valueD": 55
+		},
+		{
+			"name": "Computers and Accesories",
+			"icon": "icon-computer",
+			"valueA": 91,
+			"valueB": 91,
+			"valueC": 91,
+			"valueD": 91
+		},
+		{
+			"name": "Electronics",
+			"icon": "icon-electronics",
+			"valueA": 87,
+			"valueB": 87,
+			"valueC": 87,
+			"valueD": 87
+		},
+		{
+			"name": "Health and Personal Care",
+			"icon": "icon-healthPersonalCare",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "Home and Garden",
+			"icon": "icon-homeGarden",
+			"valueA": 51,
+			"valueB": 51,
+			"valueC": 51,
+			"valueD": 51
+		},
+		{
+			"name": "Home and Kitchen",
+			"icon": "icon-homeKitchen",
+			"valueA": 63,
+			"valueB": 63,
+			"valueC": 63,
+			"valueD": 63
+		},
+		{
+			"name": "Home Improvements",
+			"icon": "icon-homeImprovements",
+			"valueA": 29,
+			"valueB": 29,
+			"valueC": 29,
+			"valueD": 29
+		},
+		{
+			"name": "Industrial and Scienntific",
+			"icon": "icon-industrial",
+			"valueA": 37,
+			"valueB": 37,
+			"valueC": 37,
+			"valueD": 37
+		},
+		{
+			"name": "Musical Instruments",
+			"icon": "icon-musicalInstruments",
+			"valueA": 30,
+			"valueB": 30,
+			"valueC": 30,
+			"valueD": 30
+		},
+		{
+			"name": "Office Products",
+			"icon": "icon-officeProducts",
+			"valueA": 22,
+			"valueB": 22,
+			"valueC": 22,
+			"valueD": 22
+		},
+		{
+			"name": "Pet Supplies",
+			"icon": "icon-pet",
+			"valueA": 77,
+			"valueB": 77,
+			"valueC": 77,
+			"valueD": 77
+		},
+		{
+			"name": "Software",
+			"icon": "icon-software",
+			"valueA": 99,
+			"valueB": 99,
+			"valueC": 99,
+			"valueD": 99
+		},
+		{
+			"name": "Sports and Outdoors",
+			"icon": "icon-sport",
+			"valueA": 90,
+			"valueB": 90,
+			"valueC": 90,
+			"valueD": 90
+		},
+		{
+			"name": "Toys and Games",
+			"icon": "icon-toy",
+			"valueA": 86,
+			"valueB": 86,
+			"valueC": 86,
+			"valueD": 86
+		},
+		{
+			"name": "Video Games",
+			"icon": "icon-videoGames",
+			"valueA": 69,
+			"valueB": 69,
+			"valueC": 69,
+			"valueD": 69
+		},
+		{
+			"name": "Watches",
+			"icon": "icon-watches",
+			"valueA": 50,
+			"valueB": 50,
+			"valueC": 50,
+			"valueD": 50
+		},
+		{
+			"name": "DVD",
+			"icon": "icon-dvd",
+			"valueA": 50,
+			"valueB": 50,
+			"valueC": 50,
+			"valueD": 50
+		},
+		{
+			"name": "Jewelry",
+			"icon": "icon-jewelry",
+			"valueA": 50,
+			"valueB": 50,
+			"valueC": 50,
+			"valueD": 50
+		},
+		{
+			"name": "Luggage and Bags",
+			"icon": "icon-luggage",
+			"valueA": 50,
+			"valueB": 50,
+			"valueC": 50,
+			"valueD": 50
+		},
+		{
+			"name": "Shoes and Handbags",
+			"icon": "icon-shoesHandbags",
+			"valueA": 50,
+			"valueB": 50,
+			"valueC": 50,
+			"valueD": 50
+		},
+		{
+			"name": "Lighting",
+			"icon": "icon-lighting",
+			"valueA": 50,
+			"valueB": 50,
+			"valueC": 50,
+			"valueD": 50
+		},
+		{
+			"name": "Large Appliances",
+			"icon": "icon-largeAppliances",
+			"valueA": 50,
+			"valueB": 50,
+			"valueC": 50,
+			"valueD": 50
+		},
+		{
+			"name": "Foreign Language",
+			"icon": "icon-foreignLanguage",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "Food and Beverages",
+			"icon": "icon-foodAndBeverages",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		},
+		{
+			"name": "Car and MotorBike",
+			"icon": "icon-vehicle",
+			"valueA": 79,
+			"valueB": 79,
+			"valueC": 79,
+			"valueD": 79
+		}
+	]
+}

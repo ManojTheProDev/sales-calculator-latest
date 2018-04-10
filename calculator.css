@@ -1,0 +1,176 @@
+/* fonts */
+@font-face {
+    font-family: 'TrajanPro-Regular';
+    src: url("assets/fonts/TrajanPro-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Berthold';
+    src: url("assets/fonts/Berthold-Script-Medium.otf");
+}
+
+@font-face {
+    font-family: 'Sun-Sans-Regular';
+    src: url("assets/fonts/Sun Sans Regular.ttf");
+}
+
+/* fonts */
+
+/*  reset bootstrap */
+ul{
+	padding-left:0px;
+	list-style-type: none;
+}
+
+.card-front div{
+	background-color: transparent;
+}
+/*  reset bootstrap */
+
+
+/*  common css */
+.inline-block{
+	display: inline-block;
+}
+.flex{
+	display: flex;
+}
+.middle-aligned{
+	vertical-align: middle;
+}
+
+/*  common css */
+
+.header-content-wrapper{
+	padding: 20px 15px;
+}
+.navbar-default{
+	background-color: transparent;
+    border-color: transparent;
+    margin: 0;
+    min-height: 20px;
+}
+
+.no-padding{
+	padding:0;
+}
+.no-left-padding{
+	padding-left: 0;
+}
+.no-top-padding{
+	padding-top: : 0;
+}
+.no-right-padding{
+	padding-right: 0;
+}
+.no-bottom-padding{
+	padding-bottom: 0;
+}
+
+.row{
+	margin:0;
+}
+
+.mobile-logo{
+	height: 50px;
+	margin-left: calc( 33.33% - 30px );
+}
+
+
+
+/* Section two starts */
+
+.section-two{
+	width: 100%;
+	background: url("assets/calculator.jpg") no-repeat;
+	background-size: cover;
+}
+.card-front{
+	width: 100%;
+	height: 100%;
+	color: #fff;
+	background-color: rgba(0,0,0, 0.85);
+}
+.market-place{
+	vertical-align: middle;
+	margin-left: 20px;
+}
+.market-place:first-child{
+	margin-left: 0px;
+}
+.name-and-image{
+	text-align: center;
+}
+.market-place-image{
+	width: 55px;
+	border:2px solid #fff;
+	border-radius: 50%;
+}
+.market-place:hover{
+	-ms-transform: scale(1.2, 1.2); /* IE 9 */
+    -webkit-transform: scale(1.2, 1.2); /* Safari */
+    transform: scale(1.2, 1.2);
+}
+.choose-market-text{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-family: 'TrajanPro-Regular';
+	font-size: 45px;
+}
+.choose-market-place{
+	text-align: center;
+}
+
+.market-place-name{
+	font-size: 24px;
+	font-family: 'Sun-Sans-Regular';
+	letter-spacing: 0.5px;
+}
+/* categories */
+
+.choose-category{
+	padding: 0 10%;
+	text-align: center;
+}
+
+.market-category-image{
+	width: 100%;
+	/*background-color: #3ea7fe;*/
+	/*background-color: #fff;*/
+	border: 5px solid #fff;
+	border-radius: 50px;
+	padding: 20px;
+	box-sizing: border-box;
+}
+.market-category{
+	width: 150px;
+    height: 215px;
+	vertical-align: middle;
+	margin:20px;
+}
+.market-category-name{
+	font-size: 20px;
+	font-family: 'Sun-Sans-Regular';
+	letter-spacing: 0.5px;
+	padding-top: 15px;
+}
+.market-categories{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.market-category:hover .market-category-image{
+	-ms-transform: scale(1.2, 1.2); /* IE 9 */
+    -webkit-transform: scale(1.2, 1.2); /* Safari */
+    transform: scale(1.2, 1.2);
+}
+
+/* popup */
+.popup-content{
+	width: 100%;
+	background: #fff;
+	color: #333;
+	text-align:center;
+}

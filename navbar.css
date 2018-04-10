@@ -1,0 +1,247 @@
+@font-face {
+    font-family: 'Sun-Sans-Demi';
+    src: url("../assets/Sun Sans Demi.ttf");
+}
+
+@font-face {
+    font-family: 'Sun-Sans-Heavy';
+    src: url("../assets/Sun Sans Heavy.ttf");
+}
+
+@font-face {
+    font-family: 'Sun-Sans-Regular';
+    src: url("../assets/Sun Sans Regular.ttf");
+}
+
+@font-face {
+    font-family: 'TrajanPro-Regular';
+    src: url("../assets/TrajanPro-Regular.ttf");
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* navbar starts */
+
+.navbar-height {
+    height: 80px;
+    position: relative;
+}
+
+.navbar-align {
+    margin-right: 0px;
+    margin-left: 8.33%;
+    width: 100%;
+}
+
+.profile-pic {
+    margin-left: 20px;
+}
+
+
+.nav-bar-right-margin {
+    margin-right: 300px;
+    margin-left: 15px;
+}
+.nav-font-style{
+    width: 95%;
+}
+
+.nav-bar-item-font-size {
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.book-stay-btn{
+    color: #d29851 !important;
+    border: 1px solid #d29851;
+    padding: 7px 20px 7px 20px !important;
+    background: none;
+    font-size: 14px;
+    letter-spacing: 1.8px;
+    margin-top:5px;
+}
+
+.nav-font-style {
+    font-family: 'Sun-Sans-Regular';
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+}
+
+.active-text-color {
+    color: #d39851;
+}
+
+.inactive-text-color {
+    color: #4a4a4a;
+}
+
+.nav-bar-item-font-size {
+    font-size: 16px;
+    letter-spacing: 2.3px;
+}
+
+.nav-bar-right-margin {
+    margin-right: 220px;
+}
+
+.point-summary-wrap,
+.point-summary-wrap-mob {
+
+    background: black;
+
+    display: flex;
+}
+
+.point-summary-wrap {
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    z-index: 9;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: -15px;
+}
+
+.point-summary-heading {
+    height: 62px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.points-logo {
+    align-self: center;
+}
+
+.points-title {
+    font-family: 'TrajanPro-Regular';
+    font-size: 18px;
+    color: white;
+    align-self: center;
+    margin-left: 14px;
+}
+
+.points-tic-wrap {
+    margin-top: 16px;
+}
+
+.points-tic,
+.points-tic-value,
+.points-epi,
+.points-epi-value {
+    font-size: 17px;
+    color: white;
+    float: left;
+    margin-left: 20px;
+}
+
+.points-tic-value,
+.points-epi-value {
+    float: right;
+    margin-right: 20px;
+}
+
+.points-epi-wrap {
+    margin-top: 10px;
+}
+.horizontal-dotted-line {
+        border-bottom: 0.5px dotted white;
+        width: 100%;
+    }
+    .btn-carousel {
+        font-family: 'Sun-Sans-Demi';
+        margin-top: 14px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: unset;
+    }
+
+    .down-btn {
+        width: 20px;
+        margin: 25px;
+    }
+/* navbar ends */
+
+@media only screen and (max-width: 991px) {
+    .navbar-nav>li>a {
+        margin-right: 0px;
+    }
+    .point-summary-wrap {
+        display: none;
+    }
+    .points-tic-wrap {
+            margin-top: 10px;
+        }
+
+}
+
+@media only screen and (max-width: 767px) {
+    /* navbar starts */
+    .navbar-header {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+    }
+    .navbar-toggle {
+        order: 0;
+        margin-top: 20px;
+        position: absolute;
+        top: 0;
+
+    }
+    .profile-pic {
+        position: absolute;
+        right: 20px;
+        margin: 0;
+    }
+    .nav-mobile {
+        position: absolute;
+        z-index: 10000;
+        background-color: #fafafa;
+        /* left: 0;
+            width: -webkit-fill-available; */
+        display: block;
+    }
+    .point-summary-wrap-mob {
+        font-family: 'Sun-Sans-Regular';
+    }
+    .point-summary-heading {
+        border-right: 2px solid #414141;
+    }
+    .points-logo {
+        margin-left: 20px;
+    }
+    .points-epi-wrap {
+            border-right: .5px dotted white;
+            margin: 0;
+            padding-top: 7px;
+        }
+    /* navbar-ends */
+    .mobile-full-width {
+        width: 100%;
+    }
+
+}
+
+.white {
+    background-color: white;
+}
+
+.remove-magin-bottom {
+    margin-bottom: 0;
+}
+
+.background-white {
+    background-color: #fafafa;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.flex-vertical-center {
+    align-self: center;
+}

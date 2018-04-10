@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title></title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="bootstrap.css">
+        <link rel="stylesheet" href="calculator_V2.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+        <script src="bootstrap.min.js"></script>
+        <script type="text/javascript" src = "calculator.js"></script>
+    </head>
+
+    <body>
+        <header>
+            <div class ="header-content-wrapper">
+                <div class = "row hidden-xs hidden-sm">
+                    <div class = "col-md-4 col-lg-4">
+                        <img src="assets/logo_large.png" class = "large-logo-image">
+                    </div>
+                    <div class = "col-md-8 col-lg-8">
+                        <ul class = "header-navigation-wrapper flex">
+                            <li class = "header-navigation">
+                                Services
+                            </li>
+                            <li class = "header-navigation">
+                                Resources
+                            </li>
+                            <li class = "header-navigation">
+                                Contact us
+                            </li>
+                            <li class = "header-navigation">
+                                Existing User- Sign In?
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class = "row hidden-md hidden-lg">
+                    <div class = "col-xs-2 col-sm-2 no-padding">
+                        <nav class="navbar navbar-default">
+                          <div class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                          </div>
+                        </nav>
+                    </div>
+                    <div class = "hidden-nav-options">
+                        <ul>
+                            <li>
+                                Services
+                            </li>
+                            <li>
+                                Resources
+                            </li>
+                            <li>
+                                Contact us
+                            </li>
+                            <li>
+                                Existing User- Sign In?
+                            </li>
+                        </ul>
+                    </div>
+                    <div class = "col-xs-10 col-sm-10 no-padding">
+                        <img src="assets/logo_small.png" class = "mobile-logo">
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- <nav class = "header-navigation">
+            <div class = "container">
+                
+            </div>
+        </nav> -->
+        <main>
+            <section class = "section-two">
+                <div class = "card-front row">
+                    <div class = "col-md-3 choose-market-place">
+                        <div class = "choose-market-text"> Choose your market</div>
+                        <ul class = "market-places">
+                            <li class = "market-place arrow_box">
+                                <div class = "name-and-image">
+                                    <img src="assets/USA.png" class = "market-place-image inline-block middle-aligned">
+                                    <div class = "market-place-name inline-block middle-aligned">USA</div>
+                                </div>
+                            </li>
+                            <li class = "market-place ">
+                                <div class = "name-and-image">
+                                    <img src="assets/Canada.png" class = "market-place-image inline-block middle-aligned">
+                                    <div class = "market-place-name inline-block middle-aligned">Canada</div>
+                                </div>
+                            </li>
+                            <li class = "market-place ">
+                                <div class = "name-and-image">
+                                    <img src="assets/Germany.png" class = "market-place-image inline-block middle-aligned">
+                                    <div class = "market-place-name inline-block middle-aligned">Germany</div>
+                                </div>
+                            </li>
+                            <li class = "market-place ">
+                                <div class = "name-and-image">
+                                    <img src="assets/France.png" class = "market-place-image inline-block middle-aligned">
+                                    <div class = "market-place-name inline-block middle-aligned">France</div>
+                                </div>
+                            </li>
+                            <li class = "market-place ">
+                                <div class = "name-and-image">
+                                    <img src="assets/Spain.png" class = "market-place-image inline-block middle-aligned">
+                                    <div class = "market-place-name inline-block middle-aligned">Spain</div>
+                                </div>
+                            </li>
+                            <li class = "market-place ">
+                                <div class = "name-and-image">
+                                    <img src="assets/India.png" class = "market-place-image inline-block middle-aligned">
+                                    <div class = "market-place-name inline-block middle-aligned">India</div>
+                                </div>
+                            </li>
+                            <li class = "market-place ">
+                                <div class = "name-and-image">
+                                    <img src="assets/Italy.png" class = "market-place-image inline-block middle-aligned">
+                                    <div class = "market-place-name inline-block middle-aligned">Italy</div>
+                                </div>
+                            </li>
+                            <li class = "market-place ">
+                                <div class = "name-and-image">
+                                    <img src="assets/Mexico.png" class = "market-place-image inline-block middle-aligned">
+                                    <div class = "market-place-name inline-block middle-aligned">Mexico</div>
+                                </div>
+                            </li>
+                            <li class = "market-place ">
+                                <div class = "name-and-image">
+                                    <img src="assets/United_Kingdom.png" class = "market-place-image inline-block middle-aligned">
+                                    <div class = "market-place-name inline-block middle-aligned">UK</div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class = "col-md-9 choose-category">
+                        <div class = "choose-market-text"> Choose your Category</div>
+                        <div class = "categories">
+                            
+                        </div>
+                    </div>
+                    <div class = "popup-wrapper hidden">
+                        <div class = "popup-content">
+                            <div class = "close-icon glyphicon glyphicon-remove">
+                            </div>
+                            <div class = "sales-rank-input-wrapper">
+                                <span class="chosen-key">Market Place : </span>
+                                <span class = "chosen-value market-place-value"></span>
+                            </div>
+                            <div class = "sales-rank-input-wrapper">
+                                <span class="chosen-key">Category : </span>
+                                <span class = "chosen-value market-category-value"></span>
+                            </div>
+                            <div class = "sales-rank-input-wrapper">
+                                <label for="salesRank">Enter Your Sales Rank</label>
+                                <input type="number" name="salesRank" class = "sales-rank">
+                            </div>
+                            <button class = "estimate-button">Estimate!</button>
+                            <div class = "sales-rank-input-wrapper">
+                                <span class="chosen-key">The predicted sales per month is : </span>
+                                <span class = "chosen-value predicted-sales-value"></span>
+                            </div>
+                        </div>
+                        <div class = "background-cover"></div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </body>
+
+</html>
